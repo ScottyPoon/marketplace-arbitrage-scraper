@@ -80,6 +80,9 @@ def calculate_liquidity(date_strings, median_prices, volumes):
 ```
 
 ## How to install
+
+To build and run this application locally, you'll need latest versions of Git installed on your computer. From your command line:
+
 ```bash
 # Clone this repository
 $ git clone https://github.com/ScottyPoon/marketplace-arbitrage-scraper
